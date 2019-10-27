@@ -22,14 +22,14 @@ The study area for this project is the whole of Denmark, without the island of B
 the southern part of Skane, Sweden as well. The central coordinate is at ¨ [10.151320,55.981851]; shown on figure 1. 
 The study uses date from 01-03-2017 through to 01-11-2019, this is due to limitations on the availability of atmospherically corrected Sentinel-2 data.
 
-### IMAGE HERE 
+<img src="rs_dk_odder.jpg" width=39%>
 
 ## Results
 
 The NDVI has been calculated for both satellites described in Section 2.2, spanning an area of Denmark excluding Bornholm. 
 The observed values and trends are presented in figure below.
 
-### IMAGE HERE
+<img src="s2_pv_obs.png" width=100%>
 
 The figure above shows a clear seasonality in higher NDVI numbers in the summer months of both years, for both satellites.
 Furthermore the Figure shows the difference in spike variety between the PROBA-V and Sentinel-2 satellites; the PROBAV measures higher NDVI numbers more often. Looking at figure 8, the plotted trendlines for both satellites are shown.
@@ -43,7 +43,7 @@ Continuing past 2017 the spring of 2018 includes NDVI trend values of around 0.0
 This drop occurs once more around winter-spring of 2019, this time without completely bottoming out at 0.0. 
 The inconsistencies of the Sentinel-2 data is likely connected to larger percentage cloud cover.
 
-### IMAGE HERE
+<img src="s2_pv_trend.png" width=100%>
 
 Looking at the evolution of NDVI values on a two year period, for both PROBA-V and Sentinel-2, a seasonality pattern emerges with high NDVI during summer periods and lower during winter periods, except the winter of 2017/18.
 
